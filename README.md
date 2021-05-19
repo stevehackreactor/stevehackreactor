@@ -27,7 +27,7 @@ Having a difficult time understanding debounce, promise-based returns, or Authen
 
 ### [Lozad.js](https://github.com/ApoorvSaxena/lozad.js/)
 <a href='https://github.com/ApoorvSaxena/lozad.js/'>
-  <img src="https://raw.githubusercontent.com/stevehackreactor/stevehackreactor/main/icon/lozad-banner" width="300px">
+  <img src="https://raw.githubusercontent.com/stevehackreactor/stevehackreactor/main/icon/lozad-banner.jpeg" width="300px">
 </a>
 
 Open Source project which performs Lazy Loading in PURE JavaScript (no dependencies).
