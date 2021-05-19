@@ -12,6 +12,8 @@ I have a high curiosity for the algorithms that make life easier for people. I l
 
 ### [Inside-Job](https://github.com/stevehackreactor/Inside-Job)
 
+Worried that you are getting auto-filtered out of the candidate pool for a promising position by an ATS Keyword filter? 🤖 [Inside-Job](https://github.com/stevehackreactor/Inside-Job) is just the tool for you! Instantly scan a company website for common ATS vocabulary words and generate a report. Pull keywords from this report to include in your resume and cover letter. Never miss out on a great opportunity because of your vocabulary choices. 🎉🎉🎉
+
 <!-- <img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px"> -->
 
 ### [Common JS Function Visualizer](https://github.com/stevehackreactor/function-visualizer)
@@ -19,8 +21,14 @@ I have a high curiosity for the algorithms that make life easier for people. I l
 ---
 
 ## Recently Published Articles
+
 ### [Conceptual Overview of MergeSort](https://steve-gackstetter.medium.com/conceptual-overview-of-merge-sort-3800fb19fab)
-<img src="https://raw.githubusercontent.com/stevehackreactor/stevehackreactor/main/icon/medium-prev.jpeg" width="60px">
+
+<a href='https://steve-gackstetter.medium.com/conceptual-overview-of-merge-sort-3800fb19fab'>
+  <img src="https://raw.githubusercontent.com/stevehackreactor/stevehackreactor/main/icon/medium-prev.jpeg" width="400px">
+</a>
+
+---
 
 <!--
 **stevehackreactor/stevehackreactor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
