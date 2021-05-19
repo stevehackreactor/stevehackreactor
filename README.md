@@ -1,5 +1,10 @@
 # [![Steve Gackstetter header](https://raw.githubusercontent.com/stevehackreactor/stevehackreactor/main/icon/Header.png)](https://www.linkedin.com/in/steve-gackstetter/)
 
+<p align='center'>
+<a href="https://twitter.com/Befisteg77"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/steve-gackstetter/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
+
 ### Hi there 👋,
 
 I'm Steve Gackstetter (he/him) and I'm a passionate, innovative Full-Stack Engineer with an uncommon love for complex algorithms. 🚀 I am versed in assembling React, Express, Node.js, and MongoDB applications but am not limited to this stack. I am fulfilled by learning every day which pairs nicely with being a Software Developer.
@@ -12,11 +17,20 @@ I have a high curiosity for the algorithms that make life easier for people. I l
 
 ### [Inside-Job](https://github.com/stevehackreactor/Inside-Job)
 
+![Gif showing Inside-Job](https://thumbs.gfycat.com/SphericalHoarseGangesdolphin-size_restricted.gif)
+
 Worried that you are getting auto-filtered out of the candidate pool for a promising position by an ATS Keyword filter? 🤖 [Inside-Job](https://github.com/stevehackreactor/Inside-Job) is just the tool for you! Instantly scan a company website for common ATS vocabulary words and generate a report. Pull keywords from this report to include in your resume and cover letter. Never miss out on a great opportunity because of your vocabulary choices. 🎉🎉🎉
 
-<!-- <img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px"> -->
-
 ### [Common JS Function Visualizer](https://github.com/stevehackreactor/function-visualizer)
+
+Having a difficult time understanding debounce, promise-based returns, or Authentication processes? Come check out these visual (and practical) presentations of common JS functions that can be a little tricky. 😎 Written in Typescript and React. 😎 (in progress)
+
+### [Lozad.js](https://github.com/ApoorvSaxena/lozad.js/)
+<a href='https://github.com/ApoorvSaxena/lozad.js/'>
+  <img src="https://raw.githubusercontent.com/stevehackreactor/stevehackreactor/main/icon/lozad-banner" width="300px">
+</a>
+
+Open Source project which performs Lazy Loading in PURE JavaScript (no dependencies).
 
 ---
 
@@ -43,4 +57,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://gfycat.com/joyfulbriskandeancondor
 -->
