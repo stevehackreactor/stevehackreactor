@@ -30,7 +30,7 @@ Having a difficult time understanding debounce, promise-based returns, or Authen
   <img src="https://raw.githubusercontent.com/stevehackreactor/stevehackreactor/main/icon/lozad-banner.jpeg" width="300px">
 </a>
 
-Open Source project which performs Lazy Loading in PURE JavaScript (no dependencies).
+Open Source project which performs Lazy Loading in PURE JavaScript (no dependencies)💨💨.
 
 ---
 
@@ -43,7 +43,14 @@ Open Source project which performs Lazy Loading in PURE JavaScript (no dependenc
 </a>
 
 ---
+## A bit more about me
+In addition to Building fun and practical web apps, I love to DM Pathfinder sessions, Hike/Bike all over the world, Play non-competetive tabletop MTG, Go fishing, and read my favorite Manga or Technical book in a hammock.
 
+MTG Colors:
+<p>
+  <img src="https://raw.githubusercontent.com/stevehackreactor/stevehackreactor/main/icon/swamp.jpeg" width="400px">
+  <img src="https://raw.githubusercontent.com/stevehackreactor/stevehackreactor/main/icon/island.jpeg" width="400px">
+</p>
 <!--
 **stevehackreactor/stevehackreactor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
