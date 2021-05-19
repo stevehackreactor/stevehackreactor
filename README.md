@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/SteveGackstetter.png "Header")](https://www.linkedin.com/in/steve-gackstetter/)
+[![Header](https://raw.githubusercontent.com/stevehackreactor/stevehackreactor/main/icon/Header.png "Header")](https://www.linkedin.com/in/steve-gackstetter/)
 
 <!-- <img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px"> -->
 
