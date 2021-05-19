@@ -13,7 +13,7 @@ I have a high curiosity for the algorithms that make life easier for people. I l
 
 ---
 
-## Recent Projects
+## Recent Projects ⚙️⚙️
 
 ### [Inside-Job](https://github.com/stevehackreactor/Inside-Job)
 
@@ -26,6 +26,7 @@ Worried that you are getting auto-filtered out of the candidate pool for a promi
 Having a difficult time understanding debounce, promise-based returns, or Authentication processes? Come check out these visual (and practical) presentations of common JS functions that can be a little tricky. 😎 Written in Typescript and React. 😎 (in progress)
 
 ### [Lozad.js](https://github.com/ApoorvSaxena/lozad.js/)
+
 <a href='https://github.com/ApoorvSaxena/lozad.js/'>
   <img src="https://raw.githubusercontent.com/stevehackreactor/stevehackreactor/main/icon/lozad-banner.jpeg" width="300px">
 </a>
@@ -34,7 +35,7 @@ Open Source project which performs Lazy Loading in PURE JavaScript (no dependenc
 
 ---
 
-## Recently Published Articles
+## Recently Published Articles 📚
 
 ### [Conceptual Overview of MergeSort](https://steve-gackstetter.medium.com/conceptual-overview-of-merge-sort-3800fb19fab)
 
@@ -43,14 +44,31 @@ Open Source project which performs Lazy Loading in PURE JavaScript (no dependenc
 </a>
 
 ---
+
 ## A bit more about me
+
 In addition to Building fun and practical web apps, I love to DM Pathfinder sessions, Hike/Bike all over the world, Play non-competetive tabletop MTG, Go fishing, and read my favorite Manga or Technical book in a hammock.
 
-MTG Colors:
+### MTG Colors:
+
 <p>
-  <img src="https://raw.githubusercontent.com/stevehackreactor/stevehackreactor/main/icon/swamp.jpeg" width="400px">
-  <img src="https://raw.githubusercontent.com/stevehackreactor/stevehackreactor/main/icon/island.jpeg" width="400px">
+  <img src="https://raw.githubusercontent.com/stevehackreactor/stevehackreactor/main/icon/swamp.jpg" width="200px">
+  <img src="https://raw.githubusercontent.com/stevehackreactor/stevehackreactor/main/icon/island.jpeg" width="200px">
 </p>
+
+---
+
+## Projects I'd LOVE to Work On:
+
+- 💙 Any physics or applied science/math engine 💙
+- Big Data projects
+- Machine Learning and AI
+- Adding to or changing large libraries such as Reactjs or Nodejs
+- Cutting Edge anything ❗❗
+
+## Reaching me 📫 :
+
+Email: Stevehacksbetter@gmail.com || https://www.linkedin.com/in/steve-gackstetter/ || https://twitter.com/Befisteg77
 <!--
 **stevehackreactor/stevehackreactor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
